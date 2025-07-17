@@ -11,7 +11,7 @@ This is a web-based system built using **Streamlit** and **MySQL** that helps tr
 ## How to Run:
 
 1. Clone the repo:
-git clone https://github.com/Fawas-Anayat/Student_Performance_Analysis.git
+git clone https://github.com/Fawas-Anayat/Python_Projects.git
 
 
 2. Install requirements:
